@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RandomEndPC
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning ... things
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programming projects :)
 - 📫 How to reach me ...
 
 <!---
